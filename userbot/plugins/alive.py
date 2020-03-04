@@ -16,4 +16,4 @@ async def amireallyalive(alive):
                      "`Bot created by:` [Ayush](https://t.me/ayushjha_2911)\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
-                     "[Deploy this userbot Now](https://github.com/xditya/TeleBot)")
+                     "[Deploy this userbot Now](https://github.com/ayushjha2911/Tele_Bot2)")
