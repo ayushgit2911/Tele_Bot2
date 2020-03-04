@@ -1,6 +1,6 @@
 {
   "name": "Ayush's Tele-Bot",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/ayushtechy for any problems or support",
+  "description": "Userbot created by a SNAPDRAGON and custom fork by AYUSH_JHA\n\n join https://t.me/ayushtechy for any problems or support",
   "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Dark-Princ3/X-tra-Telegram/",
+  "repository": "https://github.com/ayushjha2911/Tele_Bot2",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
